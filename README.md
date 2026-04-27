@@ -4,7 +4,9 @@ A Machine Learning powered web application that recommends books similar to the 
 
 ## Live Demo
 
-(Add Streamlit link here after deployment)
+## Live Demo
+
+[Launch Web App](https://book-recommendation-akash.streamlit.app/)
 
 ## Project Preview
 
